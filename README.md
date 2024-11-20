@@ -2,10 +2,6 @@
 
 I'm a UC Berkeley Data Science student based in California, and I'm passionate about using data to craft stories. As a first generation woman in STEM, I love tackling new challenges while encouraging fellow women in tech. This portfolio highlights some of my projects and experiences. 
 
-- Checkout my [website]() to learn more about me.
-- 
-- 
-
 
 ## 📦Toolbox
 
